@@ -27,8 +27,10 @@
   margin: 80px;
 }
 .imgCat img {
-  height: 500px;
-  border: 15px solid rgb(248, 124, 145);
+  height: auto;
+  width: 100%;
+  border: 13px solid rgb(248, 124, 145);
   border-radius: 20px;
   outline: 2px solid rgb(171, 91, 104);
+  max-width: 500px;
 }
