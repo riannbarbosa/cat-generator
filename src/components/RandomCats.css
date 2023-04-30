@@ -1,0 +1,34 @@
+@import url('https://fonts.googleapis.com/css2?family=Amatic+SC:wght@400;700&display=swap');
+
+.buttonDiv button {
+  background-color: white;
+  border: none;
+  color: black;
+  border: 2px solid black;
+  border-radius: 7px;
+  padding: 10px 12px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 30px;
+  font-weight: 700;
+  font-family: 'Amatic SC', cursive;
+  cursor: pointer;
+  touch-action: manipulation;
+  box-shadow: rgba(240, 46, 170, 0.4) 5px 5px, rgba(240, 46, 170, 0.3) 10px 10px,
+    rgba(240, 46, 170, 0.2) 15px 15px;
+}
+
+.buttonDiv button:hover {
+  background-color: rgb(255, 95, 148);
+  color: white;
+}
+.imgCat {
+  margin: 80px;
+}
+.imgCat img {
+  height: 500px;
+  border: 15px solid rgb(248, 124, 145);
+  border-radius: 20px;
+  outline: 2px solid rgb(171, 91, 104);
+}
