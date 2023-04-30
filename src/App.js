@@ -20,7 +20,6 @@ function App() {
           API
         </a>
         .
-    {/* Pensado especialmente para você Bia, minha gatinha S2 */}
       </footer>
     </div>
   );
